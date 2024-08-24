@@ -5,8 +5,8 @@ import time
 from time import sleep
 from binance.error import ClientError
 
-api = "clQDBSZ1QPqgTKxWWy0x8Vvxz2EqLaVb64Q3EaUrNizlyNakLoMifCOVqJl6Dhsc"
-secret = "PdZTHmC2qtMNv2wA3QkK6kNuw6wkRJeE50eMvakXyn4Y1yfP9trIOdw4S04g9H7Q"
+api = "Binance Api Key"
+secret = "Binance Secret"
 
 client = UMFutures(key=api, secret=secret)
 
